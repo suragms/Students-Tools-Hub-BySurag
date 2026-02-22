@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  <url><loc>https://studentshub-gold.vercel.app/</loc><changefreq>weekly</changefreq><priority>1.0</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/cgpa</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/attendance</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/internal-marks</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/planner</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/exam-countdown</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/notes</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/pdf</loc><changefreq>monthly</changefreq><priority>0.9</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/pdf/merge</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/pdf/delete</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/pdf/reorder</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/pdf/extract</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/tools/pdf/rotate</loc><changefreq>monthly</changefreq><priority>0.8</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/about</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/privacy</loc><changefreq>monthly</changefreq><priority>0.5</priority></url>
+  <url><loc>https://studentshub-gold.vercel.app/contact</loc><changefreq>monthly</changefreq><priority>0.6</priority></url>
+</urlset>

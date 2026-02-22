@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://studentshub-gold.vercel.app/sitemap.xml
