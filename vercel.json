@@ -2,5 +2,9 @@
   "buildCommand": "cd student-tools-frontend && npm install && npm run build",
   "outputDirectory": "student-tools-frontend/dist",
   "installCommand": "cd student-tools-frontend && npm install",
-  "rewrites": [{ "source": "/(.*)", "destination": "/index.html" }]
+  "rewrites": [
+    { "source": "/sitemap.xml", "destination": "/sitemap.xml" },
+    { "source": "/robots.txt", "destination": "/robots.txt" },
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
 }
