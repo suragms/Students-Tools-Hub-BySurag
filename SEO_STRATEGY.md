@@ -22,6 +22,14 @@ Each tool page must include:
 
 # 3️⃣ Target Keywords
 
+**Brand (StudentTools Hub)**
+- StudentTools Hub
+- Student Tools Hub
+- studenttoolhub
+- student tools hub free
+- student tools hub India
+
+**Tools**
 - CGPA calculator India
 - Attendance percentage calculator
 - How much attendance required
