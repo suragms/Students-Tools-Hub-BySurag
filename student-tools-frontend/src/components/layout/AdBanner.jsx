@@ -102,7 +102,7 @@ export default function AdBanner({ position = 'top' }) {
     return (
         <div id={`ad-${position}`} className={containerClass} data-ad-slot={position}>
             {position === 'in-content' ? (
-                <span className="text-slate-400 text-xs">Ad placeholder</span>
+                <div className="w-full">{SponsoredStack}</div>
             ) : (
                 <div className="flex flex-col items-center justify-center gap-2">
                     <span className="text-slate-400 text-[10px] uppercase tracking-wider">Ad</span>
