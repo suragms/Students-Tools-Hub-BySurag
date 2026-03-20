@@ -9,7 +9,16 @@ export default function Navbar() {
         <header className="bg-white shadow-sm sticky top-0 z-50">
             <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
                 <div className="flex justify-between h-16 items-center">
-                    <Link to="/" className="text-xl font-bold text-slate-900 tracking-tight shrink-0">
+                    <Link
+                        to="/"
+                        className="flex items-center gap-2 text-xl font-bold text-slate-900 tracking-tight shrink-0"
+                    >
+                        <img
+                            src="/studenttools-hub-mark.png"
+                            alt="StudentTools Hub logo"
+                            className="h-8 w-8 object-contain"
+                            loading="lazy"
+                        />
                         StudentTools<span className="text-slate-600">Hub</span>
                     </Link>
                     <nav className="hidden md:flex items-center gap-1">
