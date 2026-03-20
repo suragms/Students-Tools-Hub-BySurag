@@ -35,6 +35,18 @@ Each tool page must include:
 - How much attendance required
 - Study timetable generator
 
+**High search visibility (popular intent)**
+- CGPA calculator online
+- SGPA calculator / GPA calculator
+- CGPA to percentage / SGPA to CGPA
+- 75% attendance calculator / bunk calculator
+- How many classes needed for attendance
+- Internal marks calculator / semester marks
+- Study planner / exam countdown / timetable generator
+- Merge PDF online free / combine PDF without signup
+- Delete reorder extract rotate PDF pages
+- Engineering BTech BCA BCom MBA MCA student tools
+
 ---
 
 # 4️⃣ Blog Strategy

@@ -104,7 +104,7 @@ export default function Footer() {
                     </div>
                 </div>
                 <div className="mt-10 pt-8 border-t border-slate-700 text-center text-sm text-slate-400">
-                    &copy; {new Date().getFullYear()} StudentTools Hub. Surag M S | Hexstack Ai Solutions
+                    &copy; {new Date().getFullYear()} StudentTools Hub. Surag M S | Hexstack Solutions
                 </div>
             </div>
         </footer>
