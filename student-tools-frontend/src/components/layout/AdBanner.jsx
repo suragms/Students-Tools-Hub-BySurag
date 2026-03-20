@@ -1,6 +1,6 @@
 const HEXA_CV_URL = 'https://www.hexacv.online/';
 const HEXASTACK_URL = 'https://hexastacksolutions.com/';
-const HEXA_CV_IMAGE = 'https://hexacv.com/hexacv_logo.png';
+const HEXA_CV_IMAGE = 'https://www.hexacv.online/logo.svg';
 const HEXASTACK_IMAGE = 'https://www.hexastacksolutions.com/logo-full-white.png';
 
 function HexaCVAd() {
